@@ -41,7 +41,12 @@ Analyze the data to uncover patterns, trends, and insights. Key focus areas incl
 - **Top Database Skills in Demand**
 - **Most Popular Integrated Development Environments (IDEs)**
 - **Demographic Data** (e.g., gender and age distribution of developers)
-
+      **Tasks:**
+          * Plot a distribution curve, and histogram.
+          * Find the median, and outliers of particular columns.
+          * Compute the Inter Quartile Range.
+          * Find out the upper and lower bounds, and find correlations between numerical columns.
+          * Create a new dataframe.
 **Techniques:**
 - **Distribution Analysis**
 - **Outlier Detection**
