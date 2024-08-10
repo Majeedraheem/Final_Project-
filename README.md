@@ -73,8 +73,4 @@ Compile the results and insights into a final presentation to showcase your anal
 
 ---
 
-## Getting Started
 
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository_url>
