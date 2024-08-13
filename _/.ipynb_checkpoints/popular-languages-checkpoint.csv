@@ -1,11 +1,11 @@
-Language,Annual Average Salary
-Python,"$114,383"
-Java,"$101,013"
-R,"$92,037"
-Javascript,"$110,981"
-Swift,"$130,801"
-C++,"$113,865"
-C#,"$88,726"
-PHP,"$84,727"
-SQL,"$84,793"
-Go,"$94,082"
+Language,AverageSalary
+Python,114383.0
+Java,101013.0
+R,92037.0
+Javascript,110981.0
+Swift,130801.0
+C++,113865.0
+C#,88726.0
+PHP,84727.0
+SQL,84793.0
+Go,94082.0
