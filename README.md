@@ -109,7 +109,7 @@ Design and build interactive dashboards to visualize data insights in a user-fri
   - **Description:** Visualize the top 10 web frameworks respondents desire to learn next year.
   - **Data Field:** `WebframeWantToWorkWith`
 
-  ![Future Technologies](Images/Future_Technology.png)
+  ![Future Technologies](Images/Future_Technology.jpg)
 
 ##### C. Demographics Tab
 
@@ -129,7 +129,7 @@ Design and build interactive dashboards to visualize data insights in a user-fri
   - **Description:** Visualize respondents classified by gender and further categorized by their education level.
   - **Data Fields:** `Gender`, `EdLevel`
 
-  ![Demographic](Images/Demographic)
+  ![Demographic](Images/Demographic.jpg)
 
 ### Module 6: Presentation of Findings
 
