@@ -89,6 +89,8 @@ Design and build interactive dashboards to visualize data insights in a user-fri
   - **Description:** Visualize the top 10 web frameworks that respondents have worked with.
   - **Data Field:** `WebframeHaveWorkedWith`
 
+  ![Current Technologies](Images/Current_Technology.png)
+
 ##### B. Future Technology Trends Tab
 
 - **Top 10 Languages Desired for the Next Year**
@@ -107,6 +109,8 @@ Design and build interactive dashboards to visualize data insights in a user-fri
   - **Description:** Visualize the top 10 web frameworks respondents desire to learn next year.
   - **Data Field:** `WebframeWantToWorkWith`
 
+  ![Future Technologies](Images/Future_Technology.png)
+
 ##### C. Demographics Tab
 
 - **Respondent Count by Gender**
@@ -124,6 +128,8 @@ Design and build interactive dashboards to visualize data insights in a user-fri
 - **Respondent Count by Gender and Classified by Education Level**
   - **Description:** Visualize respondents classified by gender and further categorized by their education level.
   - **Data Fields:** `Gender`, `EdLevel`
+
+  ![Demographic](Images/Demographic)
 
 ### Module 6: Presentation of Findings
 
